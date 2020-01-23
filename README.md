@@ -70,4 +70,6 @@ And if you use Gradle you can run the Spring Boot app with the following command
     gradle bootRun
 >>>>>>> dev
 
+Thank you for reading!
+
 
